@@ -2,7 +2,10 @@
 
 把 QQ 群聊记录交给 AI 分析，自动生成群成员的关系图 + 人格画像。
 
-![screenshot](docs/screenshot.png)
+<p align="center">
+  <img src="docs/screenshot1.png" width="48%">
+  <img src="docs/screenshot2.png" width="48%">
+</p>
 
 ## 功能
 
