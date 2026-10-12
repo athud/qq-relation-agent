@@ -35,3 +35,11 @@ copy .env.example .env         # Windows
 # 编辑 .env，填入 DEEPSEEK_API_KEY 和 QQ_GROUPS
 
 python main.py
+
+## 查看结果
+
+程序运行后，分析报告自动生成到 `data/reports/`：
+
+- `g<群号>.html` —— 单群关系图（浏览器打开）
+- `g<群号>.md` —— 文字报告
+- `all.html` —— 多群总览（跑 `python build_multi.py --all` 生成）
