@@ -13,7 +13,9 @@
 ## 前置要求
 
 - Python 3.10+
-- [SnowLuma](https://github.com/SnowLuma/SnowLuma/releases) 或 [NapCat](https://github.com/NapNeko/NapCatQQ)
+- **OneBot 客户端**（[SnowLuma](https://github.com/SnowLuma/SnowLuma/releases) 或 [NapCat](https://github.com/NapNeko/NapCatQQ)）
+  - 装好后登录你的 QQ
+  - **在客户端里开启 WebSocket 服务端，端口 3001**
 - [DeepSeek API Key](https://platform.deepseek.com/api_keys)
 
 ## 快速开始
