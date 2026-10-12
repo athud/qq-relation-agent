@@ -19,7 +19,7 @@
 ## 快速开始
 
 ```bash
-git clone https://github.com/你的用户名/qq-relation-agent.git
+git clone https://github.com/athud/qq-relation-agent.git
 cd qq-relation-agent
 
 python -m venv .venv
